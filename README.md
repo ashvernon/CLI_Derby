@@ -40,18 +40,13 @@ python main.py
 ✅ Python 3.7+ only
 
 📁 Folder Structure
-bash
-Copy
-Edit
 cli_derby/
 ├── main.py                        # Core game script
 ├── horse_racing_cli.jpg           # Screenshot: race in progress
 ├── horse_racing_cli_betting.jpg   # Screenshot: betting UI
 └── README.md                      # This file
+
 💬 Sample Output
-ruby
-Copy
-Edit
 🥇 Horse 2 🏇
 🥈 Horse 3 🐴
 🥉 Horse 1 🐎
